@@ -9,14 +9,21 @@ As a user, I expect the emoji to be next to the word. For example `Apple 🍏`.
 
 ## Features
 
-Exampl
+Shows examples of how to use emojis.
 
 ## Technologies
 
 Uses HTML5, CSS3, Bootstrap 5.1.1, Emoji Awesome 0.0.2
 
+## Testing
+
+Ensure that all user stories have been met.
 
 ## Credits
+
+### Contents
+
+Emojis taken from the Emoji Awesome Library
 
 ### Acknowledgements
 
