@@ -6,3 +6,8 @@
 body {
     font-family: "Roboto", Arial, Verdana, sans-serif;
 }
+
+/* List Items */
+li {
+    font-size: 1.4rem;
+}
