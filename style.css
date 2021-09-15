@@ -19,6 +19,11 @@ section {
     margin-top: 1rem;
 }
 
+/* Heading h2 */
+h2 {
+    color: #009B77;
+}
+
 /* List Items */
 li {
     font-size: 1.4rem;
